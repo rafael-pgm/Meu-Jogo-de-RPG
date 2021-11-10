@@ -1,0 +1,16 @@
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeuJogoRPG\bin\Debug\net5.0\MeuJogoRPG.exe
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeuJogoRPG\bin\Debug\net5.0\MeuJogoRPG.deps.json
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeuJogoRPG\bin\Debug\net5.0\MeuJogoRPG.runtimeconfig.json
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeuJogoRPG\bin\Debug\net5.0\MeuJogoRPG.runtimeconfig.dev.json
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeuJogoRPG\bin\Debug\net5.0\MeuJogoRPG.dll
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeuJogoRPG\bin\Debug\net5.0\ref\MeuJogoRPG.dll
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeuJogoRPG\bin\Debug\net5.0\MeuJogoRPG.pdb
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeuJogoRPG\obj\Debug\net5.0\MeuJogoRPG.csproj.AssemblyReference.cache
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeuJogoRPG\obj\Debug\net5.0\MeuJogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeuJogoRPG\obj\Debug\net5.0\MeuJogoRPG.AssemblyInfoInputs.cache
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeuJogoRPG\obj\Debug\net5.0\MeuJogoRPG.AssemblyInfo.cs
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeuJogoRPG\obj\Debug\net5.0\MeuJogoRPG.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeuJogoRPG\obj\Debug\net5.0\MeuJogoRPG.dll
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeuJogoRPG\obj\Debug\net5.0\ref\MeuJogoRPG.dll
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeuJogoRPG\obj\Debug\net5.0\MeuJogoRPG.pdb
+C:\Users\rafae\Desktop\DIO\Projetos de Estudos\MeuJogoRPG\obj\Debug\net5.0\MeuJogoRPG.genruntimeconfig.cache
