@@ -15,21 +15,25 @@ namespace MeuJogoRPG
                   
             Console.WriteLine();
             Console.WriteLine(arus.Name);
+            Console.WriteLine();
             Console.WriteLine(arus);
             Console.WriteLine(arus.Attack());
             Console.WriteLine(arus.SpecialAttack(4));
             Console.WriteLine();
             Console.WriteLine(jennica.Name);
+            Console.WriteLine();
             Console.WriteLine(jennica);
             Console.WriteLine(jennica.Attack());
             Console.WriteLine(jennica.SpecialAttack(7));
             Console.WriteLine();
             Console.WriteLine(topapa.Name);
+            Console.WriteLine();
             Console.WriteLine(topapa);
             Console.WriteLine(topapa.Attack());
             Console.WriteLine(topapa.SpecialAttack(4));
             Console.WriteLine();
             Console.WriteLine(wedge.Name);
+            Console.WriteLine();
             Console.WriteLine(wedge);
             Console.WriteLine(wedge.Attack());
             Console.WriteLine(wedge.SpecialAttack(7));
