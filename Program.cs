@@ -1,4 +1,5 @@
 ﻿using System;
+using static System.Console;
 using MeuJogoRPG.src.Entities;
 
 namespace MeuJogoRPG
@@ -8,35 +9,40 @@ namespace MeuJogoRPG
         static void Main(string[] args)
         {
             
-            Knight arus = new Knight("Arus", 42, "Knight", 749, 72); 
-            Wizard jennica = new Wizard("Jennica", 42, "White Wizard", 574, 89); 
-            BlackWizard topapa = new BlackWizard("Topapa", 42, "Black Wizard", 601, 482);
-            Ninja wedge = new Ninja ("Wedge", 42, "Ninja", 385, 641);
-                  
-            Console.WriteLine();
-            Console.WriteLine(arus.Name);
-            Console.WriteLine();
-            Console.WriteLine(arus);
-            Console.WriteLine(arus.Attack());
-            Console.WriteLine(arus.SpecialAttack(4));
-            Console.WriteLine();
-            Console.WriteLine(jennica.Name);
-            Console.WriteLine();
-            Console.WriteLine(jennica);
-            Console.WriteLine(jennica.Attack());
-            Console.WriteLine(jennica.SpecialAttack(7));
-            Console.WriteLine();
-            Console.WriteLine(topapa.Name);
-            Console.WriteLine();
-            Console.WriteLine(topapa);
-            Console.WriteLine(topapa.Attack());
-            Console.WriteLine(topapa.SpecialAttack(4));
-            Console.WriteLine();
-            Console.WriteLine(wedge.Name);
-            Console.WriteLine();
-            Console.WriteLine(wedge);
-            Console.WriteLine(wedge.Attack());
-            Console.WriteLine(wedge.SpecialAttack(7));
+            Knight arus = new Knight("Arus", 1, "Knight", 899, 125, 5); 
+            Wizard jennica = new Wizard("Jennica", 1, "White Wizard", 574, 389, 6); 
+            BlackWizard topapa = new BlackWizard("Topapa", 1, "Black Wizard", 601, 348, 7);
+            Ninja wedge = new Ninja ("Wedge", 1, "Ninja", 712, 261, 8);
+
+            //Demonstração de propriedades de herói e de golpes possíveis de serem realizados
+
+            WriteLine();
+            WriteLine(arus.Name);
+            WriteLine();
+            WriteLine(arus);
+            WriteLine(arus.Attack());
+            WriteLine(arus.SpecialAttack());
+            WriteLine();
+
+            WriteLine(jennica.Name);
+            WriteLine();
+            WriteLine(jennica);
+            WriteLine(jennica.Attack());
+            WriteLine(jennica.SpecialAttack());
+            WriteLine();
+
+            WriteLine(topapa.Name);
+            WriteLine();
+            WriteLine(topapa);
+            WriteLine(topapa.Attack());
+            WriteLine(topapa.SpecialAttack());
+            WriteLine();
+
+            WriteLine(wedge.Name);
+            WriteLine();
+            WriteLine(wedge);
+            WriteLine(wedge.Attack());
+            WriteLine(wedge.SpecialAttack());
 
         }
     }
